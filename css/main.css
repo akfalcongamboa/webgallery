@@ -2,9 +2,9 @@
   box-sizing: border-box;
 }
 body {
-  color: #333333;   
+  color: #660033;   
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background-color: #c4dce1;                      /*change your Bkg color*/
+  background-color: #e785b7;                      /*change your Bkg color*/
 }
 
 a, a:active, a:visited {
@@ -14,7 +14,7 @@ a, a:active, a:visited {
 .content {
   margin: 0 auto;
   min-width: 480px;
-  padding-left: 20px;
+  padding-left: 19px;
 }
 
 
@@ -25,7 +25,7 @@ footer {
 }
 
 footer p {
-  font-size: 18px;                 /*font size in footer*/
+  font-size: 19px;                 /*font size in footer*/
   padding: 0;
   margin: 0;
 }
@@ -33,7 +33,7 @@ footer p {
 header {
   background: #C8C1B7;
   border-bottom: 1px solid #999999;
-  background-image: url("../img/gallerybanner.jpg"); /*change your banner image*/
+  background-image: url("../img/banner.jpg"); /*change your banner image*/
   height: 60px;
   position: relative;
   width: 100%;
@@ -41,13 +41,13 @@ header {
 
 header h1 {
   float: left;
-  font-size: 36px;
-  font-weight: 300;
+  font-size: 30px;
+  font-weight: 361;
   margin: 0;
 }
 
 header h1 a, header h1 a:visited, header h1 a:active {
-  color: #333333;
+  color: #660033;
 }
 
 header nav ul {
@@ -78,7 +78,7 @@ header nav a, header nav a:visited {
   display: block;
   line-height: 60px;
   text-decoration: none;
-  color: #000000;                         /*changes banner text color*/
+  color: #660033;                         /*changes banner text color*/
   transition: color 200ms ease-in-out;
 }
 
